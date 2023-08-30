@@ -11,7 +11,7 @@
       { "network": "github", "username": "branndonU", "url": "http://github.com/changeme" },
       { "network": "linkedin", "username": "Brandon Underwood", "url": "https://www.linkedin.com/in/brandon-underwood-438a18289/" },
       { "network": "instagram", "username": "bran.don.u", "url": "https://www.instagram.com/bran.don.u/" }
-    ]
+    ],
   },
   "interests": [
     { "name": "Intelligence Analysis" },
@@ -21,7 +21,7 @@
   "skills": [
     {
       "name": "Languages and MI",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Geological Mapping", "Annalytic Skills", "Intelligence Analysis" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Geological Mapping", "Analytic Skills", "Intelligence Analysis" ]
     },
     {
       "name": "Toolsets/OS",
