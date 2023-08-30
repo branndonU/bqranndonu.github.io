@@ -4,6 +4,7 @@
     "label": "Student",
     "picture": "https://github.com/branndonU.png",
     "email": "bunder@hawaii.edu",
+    "phone": "808-956-3489",
     "website": "https://mmaluhia.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. Whilst serving in the HING. I expect to graduate in Fall, 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
@@ -11,7 +12,7 @@
       { "network": "github", "username": "branndonU", "url": "http://github.com/changeme" },
       { "network": "linkedin", "username": "Brandon Underwood", "url": "https://www.linkedin.com/in/brandon-underwood-438a18289/" },
       { "network": "instagram", "username": "bran.don.u", "url": "https://www.instagram.com/bran.don.u/" }
-    ],
+    ]
   },
   "interests": [
     { "name": "Intelligence Analysis" },
